@@ -30,9 +30,8 @@ Any changes you save in the CMS will be commited back to your Git repository.
 Import your repository in [Netlify](https://netlify.com)
 
 1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
+2. main main main main main 
 3. Set the publish directory to: `public`
-4. Set `GO_VERSION` to `1.12` or above
 4. Set `HUGO_VERSION` to `0.65.3` or above
 
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
