@@ -33,6 +33,10 @@ Import your repository in [Netlify](https://netlify.com)
 2. mergetest   test
 3. Set the build command to: `hugo --gc --minify`
 4. Set the publish directory to: `public`
+2. main main main main main 
+3. Set the publish directory to: `public`
+4. Set `HUGO_VERSION` to `0.65.3` or above
+
 
 That's it, now your site gets  on `git push` or when saving documents from Forestry.
 
