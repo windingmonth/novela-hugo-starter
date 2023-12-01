@@ -34,7 +34,7 @@ Import your repository in [Netlify](https://netlify.com)
 3. Set the build command to: `hugo --gc --minify`
 4. Set the publish directory to: `public`
 2. main main main main main 
-3. Set the publish directory to: `public`
+3. Set the publish directory to: `mergetest`
 4. Set `HUGO_VERSION` to `0.65.3` or above
 
 
